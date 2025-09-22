@@ -1,40 +1,44 @@
 ## 👋 Hi, I'm Brian Oiko
 
-
-### 👨‍💻 Typing Animation
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5470&width=435&lines=Full-Stack+Developer;Rust+Enthusiast;Open-Source+Contributor;Problem+Solver)
-
-
 **Full-Stack Developer | Rust Engineer | Building Scalable & User-Centric Applications**
 
 I'm a passionate and product-driven developer with 3+ years of experience crafting robust solutions across the entire stack. My expertise lies in leveraging high-performance systems programming with **Rust** alongside modern web technologies like **React**, **Next.js**, and **Go** to build fast, efficient, and impactful user experiences.
 
-- 🔭 **I’m currently working on** high-performance backend systems in Rust and full-stack applications at Zone01 Kisumu.
-- 🌱 **I’m currently deepening my knowledge** in distributed systems, cloud architecture (AWS/GCP), and advanced SvelteKit patterns.
-- 💡 **I'm interested in** systems programming, real-time applications, developer tooling, and open-source collaboration.
-- 👯 **I’m looking to collaborate on** innovative Rust projects, open-source initiatives, and full-stack applications that solve real-world problems.
-- 💬 **Ask me about** Rust, Backend Development with Go, React/Next.js, API Design, or transitioning from frontend to full-stack.
-- 📫 **How to reach me:**
-  - **LinkedIn:** [linkedin.com/in/brian-oiko](https://linkedin.com/in/brian-oiko)
-  - **Email:** oikobrian99@gmail.com
-- ⚡ **Fun fact:** I once built a real-time traffic simulation to model and optimize intersection flow and was the most interesting of all! 🚦
+- 🔭 **I’m currently working on** high-performance backend systems in Rust and full-stack applications at Zone01 Kisumu.  
+- 🌱 **I’m deepening my knowledge** in distributed systems, cloud architecture (AWS/GCP), and advanced SvelteKit patterns.  
+- 💡 **I'm interested in** systems programming, real-time applications, developer tooling, and open-source collaboration.  
+- 👯 **I’m looking to collaborate on** innovative Rust projects, open-source initiatives, and full-stack applications that solve real-world problems.  
+- 💬 **Ask me about** Rust, Backend Development with Go, React/Next.js, API Design, or transitioning from frontend to full-stack.  
+- 📫 **How to reach me:**  
+  - **LinkedIn:** [linkedin.com/in/brian-oiko](https://linkedin.com/in/brian-oiko)  
+  - **Email:** oikobrian99@gmail.com  
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-**Languages:** Rust, JavaScript (ES6+), TypeScript, Go, Python, HTML5, CSS3
+**Languages:** Rust, JavaScript (ES6+), TypeScript, Go, Python, HTML5, CSS3  
+**Frontend:** React, Next.js, SvelteKit, Redux  
+**Backend:** Golang (Gin), Node.js, REST/GraphQL APIs  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**DevOps & Cloud:** Docker, AWS EKS, GCP, GitHub Actions, CI/CD  
+**Tools:** Git, GitHub, Figma, Vite, Webpack  
 
-**Frontend:** React, Next.js, SvelteKit, Redux
+---
 
-**Backend:** Golang (Gin), Node.js, REST/GraphQL APIs
+### 🚀 Featured Projects
 
-**Databases:** PostgreSQL, MySQL, SQLite
+- **Smart Traffic Predict** – Real-time traffic congestion prediction using live camera feeds, TensorFlow, and Flask, deployed on AWS/GCP with Docker & Kubernetes.  
+- **Chaikin Curve Animation (Rust + WebAssembly)** – Converted a JavaScript animation app to Rust for high-performance browser rendering.  
+- **E-commerce API (Go + PostgreSQL)** – A scalable REST API with authentication, cart system, and payment integration.  
 
-**DevOps & Cloud:** Docker, AWS EKS, GCP, GitHub Actions, CI/CD
+---
 
-**Tools:** Git, GitHub, Figma, Vite, Webpack
+### 📜 Certifications & Achievements
+
+- 🏅 Zone01 Kisumu – 18-month intensive software engineering program (Rust, Go, JS)  
+- ☁️ AWS Certified Cloud Practitioner *(in progress)*  
+- 🎓 Recognized for building cross-disciplinary solutions in UI/UX and backend systems  
 
 ---
 
@@ -52,6 +56,19 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 </a>
 
 <!-- Snake Animation Contribution Graph -->
-![Snake animation](https://github.com/BrianOiko/Brace1000/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brace1000/Brace1000/blob/output/snake.svg)
 
 ---
+
+### ✨ Profile Highlights
+
+![Profile Views](https://komarev.com/ghpvc/?username=Brace1000&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/Brace1000?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Brace1000?style=social)
+
+---
+
+### ⚡ Fun Fact
+I once built a **real-time traffic simulation** to model and optimize intersection flow! 🚦  
+
+*"Code is poetry, optimized for humans first and machines second."* ✨
