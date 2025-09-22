@@ -15,7 +15,7 @@
 
 I'm a **product-driven developer** with **3+ years** of experience crafting robust solutions across the entire technology stack. My passion lies in leveraging high-performance systems programming with **Rust** alongside modern web technologies to build **fast**, **efficient**, and **impactful** user experiences.
 
-<img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="centre" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <!-- ```rust
 struct Developer {
