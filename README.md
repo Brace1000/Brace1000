@@ -9,7 +9,7 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 - 💡 **I'm interested in** systems programming, real-time applications, developer tooling, and open-source collaboration.
 - 👯 **I’m looking to collaborate on** innovative Rust projects, open-source initiatives, and full-stack applications that solve real-world problems.
 - 💬 **Ask me about** Rust, Backend Development with Go, React/Next.js, API Design, or transitioning from frontend to full-stack.
-- 📫 **How to reach me:** 
+- 📫 **How to reach me:**
   - **LinkedIn:** [linkedin.com/in/brian-oiko](https://linkedin.com/in/brian-oiko)
   - **Email:** oikobrian99@gmail.com
 - ⚡ **Fun fact:** I once built a real-time traffic simulation to model and optimize intersection flow! 🚦
@@ -29,3 +29,27 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 **DevOps & Cloud:** Docker, AWS EKS, GCP, GitHub Actions, CI/CD
 
 **Tools:** Git, GitHub, Figma, Vite, Webpack
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/BrianOiko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianOiko&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brian's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianOiko&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Brian's Top Languages" />
+</a>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/BrianOiko">
+  <img height="180em" src="https://streak-stats.demolab.com?user=BrianOiko&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
+<!-- Snake Animation Contribution Graph -->
+![Snake animation](https://github.com/BrianOiko/BrianOiko/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👨‍💻 Typing Animation
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5470&width=435&lines=Full-Stack+Developer;Rust+Enthusiast;Open-Source+Contributor;Problem+Solver)
