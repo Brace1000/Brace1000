@@ -86,7 +86,7 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-### ⏰ Coding Activity (Optional - Setup Required)
+
 
 
 
