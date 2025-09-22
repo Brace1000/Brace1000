@@ -82,10 +82,42 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 
 ### 🐍 Watch the Snake Devour My Commits!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+### 🐍 Watch the Snake Devour My Commits!
 
+<div align="center">
+  
+<!-- Enhanced snake animation with multiple effects -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<!-- Alternative beautiful snake animations - uncomment one you prefer -->
+<!-- 
+<img src="https://raw.githubusercontent.com/Pepyn0/Pepyn0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+-->
+
+<!-- 
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+-->
+
+<!-- Colorful snake with better styling -->
+<!-- 
+<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake animation" />
+-->
+
+<!-- Matrix-style contribution graph -->
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brace1000&bg_color=0d1117&color=79c0ff&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=💻%20Contribution%20Matrix" width="100%"/>
+
+<!-- Animated typing effect for the snake -->
+<br/>
+[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Devouring%20Commits-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000/Brace1000)
+
+</div>
 
 
 
