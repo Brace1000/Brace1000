@@ -82,41 +82,28 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 
 ### 🐍 Watch the Snake Devour My Commits!
 
-### 🐍 Watch the Snake Devour My Commits!
-
 <div align="center">
   
-<!-- Enhanced snake animation with multiple effects -->
+<!-- YOUR personalized snake eating YOUR commits -->
+<!-- This will work once you set up the GitHub Action below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating Brace1000's commits" src="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+<!-- Temporary fallback while setting up YOUR snake -->
+<!-- Remove this section once your snake is working -->
+<div style="opacity: 0.7; margin: 20px 0;">
+  <em>🔧 Setting up your personalized snake animation...</em><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brace1000&bg_color=0d1117&color=79c0ff&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=🐍%20Your%20Contribution%20Snake%20Preview" width="100%"/>
+</div>
 
-<!-- Alternative beautiful snake animations - uncomment one you prefer -->
-<!-- 
-<img src="https://raw.githubusercontent.com/Pepyn0/Pepyn0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
--->
+</div>
 
-<!-- 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/output/github-contribution-grid-snake.svg" alt="Snake animation" />
--->
-
-<!-- Colorful snake with better styling -->
-<!-- 
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake animation" />
--->
-
-<!-- Matrix-style contribution graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brace1000&bg_color=0d1117&color=79c0ff&line=58a6ff&point=1f6feb&area=true&hide_border=true&custom_title=💻%20Contribution%20Matrix" width="100%"/>
-
-<!-- Animated typing effect for the snake -->
-<br/>
-[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Devouring%20Commits-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000/Brace1000)
-
+<div align="center">
+  <h3>🎮 Achievement Unlocked</h3>
+  <img src="https://github-profile-trophy.vercel.app/api/?username=Brace1000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 
