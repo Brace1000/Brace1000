@@ -17,7 +17,7 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```rust
+<!-- ```rust
 struct Developer {
     name: &'static str,
     role: &'static str,
@@ -43,7 +43,7 @@ impl Developer {
         "High-performance backend systems & full-stack applications at Zone01 Kisumu"
     }
 }
-```
+``` -->
 
 ## 🎯 Current Focus
 
