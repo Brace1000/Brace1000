@@ -19,33 +19,7 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 <img align="centre" alt="Coding" width="50%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
-<!-- ```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    location: &'static str,
-    experience: u8,
-    languages: Vec<&'static str>,
-    focus: &'static str,
-}
 
-impl Developer {
-    fn new() -> Self {
-        Self {
-            name: "Brian Oiko",
-            role: "Full-Stack Rust Engineer",
-            location: "Kisumu, Kenya",
-            experience: 3,
-            languages: vec!["Rust", "Go", "TypeScript", "JavaScript"],
-            focus: "Building scalable systems that solve real problems",
-        }
-    }
-    
-    fn current_work(&self) -> &str {
-        "High-performance backend systems & full-stack applications at Zone01 Kisumu"
-    }
-}
-``` -->
 
 ## 🎯 Current Focus
 
@@ -93,7 +67,7 @@ impl Developer {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brace1000&repo=smart-traffic-predict&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brace1000&repo=smart-traffic-predict&theme=tokyonight&hide_border=true" /> -->
 </div>
 
 ### 📈 Detailed Statistics
@@ -113,14 +87,8 @@ impl Developer {
 </div>
 
 ### ⏰ Coding Activity (Optional - Setup Required)
-<!-- 
-To enable Wakatime statistics:
-1. Create account at https://wakatime.com
-2. Install Wakatime plugin in your IDE
-3. Make your profile public in Wakatime settings
-4. Then uncomment and use: 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
--->
+
+
 
 ## 🏆 Featured Projects
 
