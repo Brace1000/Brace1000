@@ -18,7 +18,7 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 - 📫 **How to reach me:**
   - **LinkedIn:** [linkedin.com/in/brian-oiko](https://linkedin.com/in/brian-oiko)
   - **Email:** oikobrian99@gmail.com
-- ⚡ **Fun fact:** I once built a real-time traffic simulation to model and optimize intersection flow! 🚦
+- ⚡ **Fun fact:** I once built a real-time traffic simulation to model and optimize intersection flow and was the most interesting of all! 🚦
 
 ---
 
