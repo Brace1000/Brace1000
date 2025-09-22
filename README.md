@@ -90,8 +90,18 @@ impl Developer {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brace1000&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Brace1000&repo=smart-traffic-predict&theme=tokyonight&hide_border=true" />
+</div>
+
+### 📈 Detailed Statistics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brace1000&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brace1000&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brace1000&theme=tokyonight" width="49%" />
 </div>
 
 ### 🐍 Watch the Snake Devour My Commits!
@@ -103,6 +113,16 @@ impl Developer {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+### ⏰ Coding Activity (Optional - Setup Required)
+<!-- 
+To enable Wakatime statistics:
+1. Create account at https://wakatime.com
+2. Install Wakatime plugin in your IDE
+3. Make your profile public in Wakatime settings
+4. Then uncomment and use: 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+-->
 
 ## 🏆 Featured Projects
 
