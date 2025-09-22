@@ -132,7 +132,7 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 
 <div align="center">
 
-[![Zone01](https://img.shields.io/badge/Zone01_Kisumu-18_Month_Program-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://zone01kisumu.com)
+[![Zone01](https://img.shields.io/badge/Zone01_Kisumu-18_Month_Program-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://zone01kisumu)
 [![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 [![GitHub](https://img.shields.io/badge/Open_Source_Contributor-Active-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000)
 
@@ -148,10 +148,10 @@ I'm a **product-driven developer** with **3+ years** of experience crafting robu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-oiko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-oiko-224778363/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oikobrian99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://brian-oiko.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](http://Brace1000.github.io )
 
 </div>
 
