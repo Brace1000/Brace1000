@@ -1,74 +1,182 @@
-## 👋 Hi, I'm Brian Oiko
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Brian Oiko
 
-**Full-Stack Developer | Rust Engineer | Building Scalable & User-Centric Applications**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Rust+Engineer;Building+Scalable+%26+User-Centric+Applications;Passionate+about+Systems+Programming)](https://git.io/typing-svg)
 
-I'm a passionate and product-driven developer with 3+ years of experience crafting robust solutions across the entire stack. My expertise lies in leveraging high-performance systems programming with **Rust** alongside modern web technologies like **React**, **Next.js**, and **Go** to build fast, efficient, and impactful user experiences.
+</div>
 
-- 🔭 **I’m currently working on** high-performance backend systems in Rust and full-stack applications at Zone01 Kisumu.  
-- 🌱 **I’m deepening my knowledge** in distributed systems, cloud architecture (AWS/GCP), and advanced SvelteKit patterns.  
-- 💡 **I'm interested in** systems programming, real-time applications, developer tooling, and open-source collaboration.  
-- 👯 **I’m looking to collaborate on** innovative Rust projects, open-source initiatives, and full-stack applications that solve real-world problems.  
-- 💬 **Ask me about** Rust, Backend Development with Go, React/Next.js, API Design, or transitioning from frontend to full-stack.  
-- 📫 **How to reach me:**  
-  - **LinkedIn:** [linkedin.com/in/brian-oiko](https://linkedin.com/in/brian-oiko)  
-  - **Email:** oikobrian99@gmail.com  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brace1000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Brace1000&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+</div>
+
+## 🚀 About Me
+
+I'm a **product-driven developer** with **3+ years** of experience crafting robust solutions across the entire technology stack. My passion lies in leveraging high-performance systems programming with **Rust** alongside modern web technologies to build **fast**, **efficient**, and **impactful** user experiences.
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```rust
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    location: &'static str,
+    experience: u8,
+    languages: Vec<&'static str>,
+    focus: &'static str,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "Brian Oiko",
+            role: "Full-Stack Rust Engineer",
+            location: "Kisumu, Kenya",
+            experience: 3,
+            languages: vec!["Rust", "Go", "TypeScript", "JavaScript"],
+            focus: "Building scalable systems that solve real problems",
+        }
+    }
+    
+    fn current_work(&self) -> &str {
+        "High-performance backend systems & full-stack applications at Zone01 Kisumu"
+    }
+}
+```
+
+## 🎯 Current Focus
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=F7931E&center=true&vCenter=true&width=800&lines=🔭+Building+high-performance+backend+systems+in+Rust;🌱+Deepening+knowledge+in+distributed+systems+%26+cloud+architecture;💡+Interested+in+systems+programming+%26+real-time+applications;👯+Looking+to+collaborate+on+innovative+Rust+projects;💬+Ask+me+about+Rust%2C+Go%2C+React%2FNext.js%2C+or+API+Design)](https://git.io/typing-svg)
+
+</div>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Languages & Core Technologies
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Brace1000&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+### 🐍 Watch the Snake Devour My Commits!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|---------|
+| **🚦 Smart Traffic Predict** | Real-time traffic congestion prediction using live camera feeds | `TensorFlow` `Flask` `AWS` `Docker` `Kubernetes` | ✅ Deployed |
+| **🦀 Chaikin Curve Animation** | High-performance browser animation converted from JS to Rust+WASM | `Rust` `WebAssembly` `JavaScript` | ✅ Complete |
+| **🛒 E-commerce API** | Scalable REST API with authentication & payment integration | `Go` `PostgreSQL` `JWT` `Stripe API` | 🚧 Active |
+| **⚡ Real-time Chat App** | High-performance chat application with WebSocket support | `Rust` `Actix-Web` `WebSocket` `React` | 🚧 In Progress |
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brace1000&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+[![Zone01](https://img.shields.io/badge/Zone01_Kisumu-18_Month_Program-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://zone01kisumu.com)
+[![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![GitHub](https://img.shields.io/badge/Open_Source_Contributor-Active-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000)
+
+**Key Achievements:**
+- 🎯 **18-month intensive software engineering program** at Zone01 Kisumu
+- 🏆 **Recognized for cross-disciplinary solutions** in UI/UX and backend systems  
+- ⭐ **Active open-source contributor** with focus on Rust ecosystem
+- 🚀 **Built production-ready applications** serving real users
+
+</div>
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-oiko)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oikobrian99@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brace1000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://brian-oiko.dev)
+
+</div>
+
+## 💭 Philosophy & Approach
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=%22Code+is+poetry%2C+optimized+for+humans+first%22;%22Performance+matters%2C+but+maintainability+is+king%22;%22Great+software+solves+real+problems+elegantly%22)](https://git.io/typing-svg)
+
+</div>
+
+> I believe in writing **clean**, **efficient** code that not only performs exceptionally but also tells a story. My approach combines the **raw performance of systems programming** with the **elegance of modern web development** to create solutions that scale and inspire.
 
 ---
 
-### 🛠️ Technologies & Tools
-
-**Languages:** Rust, JavaScript (ES6+), TypeScript, Go, Python, HTML5, CSS3  
-**Frontend:** React, Next.js, SvelteKit, Redux  
-**Backend:** Golang (Gin), Node.js, REST/GraphQL APIs  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**DevOps & Cloud:** Docker, AWS EKS, GCP, GitHub Actions, CI/CD  
-**Tools:** Git, GitHub, Figma, Vite, Webpack  
-
----
-
-### 🚀 Featured Projects
-
-- **Smart Traffic Predict** – Real-time traffic congestion prediction using live camera feeds, TensorFlow, and Flask, deployed on AWS/GCP with Docker & Kubernetes.  
-- **Chaikin Curve Animation (Rust + WebAssembly)** – Converted a JavaScript animation app to Rust for high-performance browser rendering.  
-- **E-commerce API (Go + PostgreSQL)** – A scalable REST API with authentication, cart system, and payment integration.  
-
----
-
-### 📜 Certifications & Achievements
-
-- 🏅 Zone01 Kisumu – 18-month intensive software engineering program (Rust, Go, JS)  
-- ☁️ AWS Certified Cloud Practitioner *(in progress)*  
-- 🎓 Recognized for building cross-disciplinary solutions in UI/UX and backend systems  
-
----
-
-### 📈 GitHub Stats & Activity
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/Brace1000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brace1000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brian's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Brian's Top Languages" />
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Brace1000">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Brace1000&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
-
-<!-- Snake Animation Contribution Graph -->
-![Snake animation](https://github.com/Brace1000/Brace1000/blob/output/snake.svg)
-
----
-
-### ✨ Profile Highlights
-
-![Profile Views](https://komarev.com/ghpvc/?username=Brace1000&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/Brace1000?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Brace1000?style=social)
-
----
+<div align="center">
 
 ### ⚡ Fun Fact
-I once built a **real-time traffic simulation** to model and optimize intersection flow! 🚦  
+I once built a **real-time traffic simulation** to model and optimize intersection flow! 🚦
 
-*"Code is poetry, optimized for humans first and machines second."* ✨
+![Profile Views](https://komarev.com/ghpvc/?username=Brace1000&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Brace1000?style=for-the-badge&color=blue)](https://github.com/Brace1000?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Brace1000?style=for-the-badge&color=yellow)](https://github.com/Brace1000?tab=repositories)
+
+**⭐ If you find my work interesting, consider giving my repositories a star!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
+</div>
