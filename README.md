@@ -1,5 +1,11 @@
 ## 👋 Hi, I'm Brian Oiko
 
+
+### 👨‍💻 Typing Animation
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5470&width=435&lines=Full-Stack+Developer;Rust+Enthusiast;Open-Source+Contributor;Problem+Solver)
+
+
 **Full-Stack Developer | Rust Engineer | Building Scalable & User-Centric Applications**
 
 I'm a passionate and product-driven developer with 3+ years of experience crafting robust solutions across the entire stack. My expertise lies in leveraging high-performance systems programming with **Rust** alongside modern web technologies like **React**, **Next.js**, and **Go** to build fast, efficient, and impactful user experiences.
@@ -49,7 +55,3 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 ![Snake animation](https://github.com/BrianOiko/Brace1000/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 👨‍💻 Typing Animation
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5470&width=435&lines=Full-Stack+Developer;Rust+Enthusiast;Open-Source+Contributor;Problem+Solver)
