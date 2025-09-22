@@ -35,14 +35,14 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 ### 📈 GitHub Stats & Activity
 
 <!-- GitHub Stats Card -->
-<a href="https://github.com/BrianOiko">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrianOiko&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brian's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianOiko&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Brian's Top Languages" />
+<a href="https://github.com/Brace1000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brace1000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Brian's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brace1000&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Brian's Top Languages" />
 </a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/Brace1000">
-  <img height="180em" src="https://streak-stats.demolab.com?user=BrianOiko&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Brace1000&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 <!-- Snake Animation Contribution Graph -->
