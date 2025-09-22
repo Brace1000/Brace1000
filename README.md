@@ -106,14 +106,9 @@ impl Developer {
 
 ### 🐍 Watch the Snake Devour My Commits!
 
-<!-- Option 1: Direct path -->
-![Snake animation](https://github.com/Brace1000/Brace1000/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Option 2: Raw GitHub URL -->
-![Snake animation](https://raw.githubusercontent.com/Brace1000/Brace1000/output/github-contribution-grid-snake.svg)
-
-<!-- Option 3: Using a different service -->
-![Snake animation](https://github.com/Brace1000/Brace1000/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ### ⏰ Coding Activity (Optional - Setup Required)
 <!-- 
