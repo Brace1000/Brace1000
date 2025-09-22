@@ -41,12 +41,12 @@ I'm a passionate and product-driven developer with 3+ years of experience crafti
 </a>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/BrianOiko">
+<a href="https://github.com/Brace1000">
   <img height="180em" src="https://streak-stats.demolab.com?user=BrianOiko&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 <!-- Snake Animation Contribution Graph -->
-![Snake animation](https://github.com/BrianOiko/BrianOiko/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrianOiko/Brace1000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
